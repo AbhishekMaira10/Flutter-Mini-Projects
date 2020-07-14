@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "701087346316",
+    "firebase_url": "https://realtime-geoloaction.firebaseio.com",
+    "project_id": "realtime-geoloaction",
+    "storage_bucket": "realtime-geoloaction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701087346316:android:936dcd99f18c83c93ed5a9",
+        "android_client_info": {
+          "package_name": "realtime.geolocation.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701087346316-bvki2umpipi1o4hvb0e1lkg721d6g7o5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "realtime.geolocation.app",
+            "certificate_hash": "5a3ed343ec8ed2083408b99f7a0b63387ffc4b6c"
+          }
+        },
+        {
+          "client_id": "701087346316-va9vji5i9n6u7sr24pfr17bo0k7vcsue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBwJWTzJeG1vvzG33SGTeB7cBF7s-IEc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701087346316-va9vji5i9n6u7sr24pfr17bo0k7vcsue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
